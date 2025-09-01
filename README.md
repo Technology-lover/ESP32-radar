@@ -8,3 +8,7 @@ WiFi signals aren’t just for internet — they bounce around walls, furniture,
   - It supports Channel State Information (CSI)
   - 2 or more esp can be used for triangulation.
     
+## What can we do with this ?
+  = Live human detection
+  - Gesture detection (maybe in future)
+  - Indoor localization
